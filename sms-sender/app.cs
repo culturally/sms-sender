@@ -63,6 +63,10 @@ namespace sms_sender
             {
                 MessageBox.Show("Invalid Phone Number", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            else if (resString.Contains("Abusive messages") == true)
+            {
+                MessageBox.Show("Abusive Message", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }   
     }
 }
