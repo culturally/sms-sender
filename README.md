@@ -5,3 +5,4 @@ Uses API to send an SMS to any number you want with your custom text. Input the 
 ## BE AWARE 1 SMS PER DAY ONLY!
 ## Preview
 ![image](https://user-images.githubusercontent.com/70502697/148694192-873ecd7f-4aab-4c3a-a769-482ea5e82257.png)
+# I AM NOT RESPONSIBLE FOR ANY DAMAGES YOU WILL DO
