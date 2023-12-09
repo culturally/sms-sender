@@ -123,7 +123,7 @@ namespace sms_sender
             this.Controls.Add(this.texttitle);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "app";
-            this.Text = "detective#0001";
+            this.Text = "detective@yin.sh";
             this.Load += new System.EventHandler(this.app_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
